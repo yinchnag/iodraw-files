@@ -64,7 +64,11 @@
           <mxGeometry y="424" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ERFbRIdKBf5skQwlBGlt-140" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#3D852C;fontStyle=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ERFbRIdKBf5skQwlBGlt-53" target="ERFbRIdKBf5skQwlBGlt-122">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ERFbRIdKBf5skQwlBGlt-53" value="ActorSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1E1E1E;fontColor=#3D852C;strokeColor=#1E1E1E;swimlaneLine=1;glass=0;rounded=1;shadow=1;gradientColor=none;swimlaneFillColor=#1E1E1E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="150" width="160" height="470" as="geometry">
