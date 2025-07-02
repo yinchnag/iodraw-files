@@ -217,7 +217,7 @@
         <mxCell id="ERFbRIdKBf5skQwlBGlt-122" value="+ actorSystem:&amp;nbsp;&lt;span style=&quot;color: rgb(78, 201, 176); background-color: rgb(30, 30, 30); font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; white-space: pre;&quot;&gt;ActorSystem&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#D4E1F5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-121">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ERFbRIdKBf5skQwlBGlt-123" value="+ handleIdx: &lt;font color=&quot;#4c85b5&quot;&gt;uint&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-121">
+        <mxCell id="ERFbRIdKBf5skQwlBGlt-123" value="+ receiver:&amp;nbsp;&lt;span style=&quot;color: rgb(184, 215, 163); background-color: rgb(30, 30, 30); font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; white-space: pre;&quot;&gt;IActorReceiver&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-121">
           <mxGeometry y="52" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ERFbRIdKBf5skQwlBGlt-124" value="+ uintSlotSize: &lt;font color=&quot;#4c85b5&quot;&gt;uint&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-121">
@@ -267,6 +267,9 @@
         </mxCell>
         <mxCell id="ERFbRIdKBf5skQwlBGlt-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#3D852C;fontStyle=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ERFbRIdKBf5skQwlBGlt-126" target="ERFbRIdKBf5skQwlBGlt-105">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERFbRIdKBf5skQwlBGlt-142" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;whiteSpace=wrap;rounded=1;shadow=1;glass=0;strokeColor=#1E1E1E;align=center;verticalAlign=top;swimlaneFillColor=#1E1E1E;fontFamily=Helvetica;fontSize=12;fontColor=#3D852C;fontStyle=1;fillColor=#1E1E1E;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="360" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
