@@ -89,9 +89,9 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--25" value="ActorConfig(Actor&lt;ActorConfig&gt;)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="450" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mJJFuk8N7hxxOyH7hGaa-5" value="ActorConfig" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1E1E1E;fontColor=#3D852C;strokeColor=#1E1E1E;swimlaneLine=1;glass=0;rounded=1;shadow=1;gradientColor=none;swimlaneFillColor=#1E1E1E;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="284" width="260" height="450" as="geometry">
-            <mxRectangle x="140" y="300" width="100" height="30" as="alternateBounds" />
+        <mxCell id="mJJFuk8N7hxxOyH7hGaa-5" value="ActorConfig" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1E1E1E;fontColor=#3D852C;strokeColor=#1E1E1E;swimlaneLine=1;glass=0;rounded=1;shadow=1;gradientColor=none;swimlaneFillColor=#1E1E1E;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
+          <mxGeometry x="10" y="270" width="100" height="30" as="geometry">
+            <mxRectangle x="70" y="284" width="260" height="450" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJJFuk8N7hxxOyH7hGaa-6" value="+ name: &lt;font color=&quot;#4c85b5&quot;&gt;string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#D4E1F5;" parent="mJJFuk8N7hxxOyH7hGaa-5" vertex="1">
