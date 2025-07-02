@@ -94,7 +94,7 @@
         <mxCell id="ERFbRIdKBf5skQwlBGlt-54" value="+ id: &lt;font color=&quot;#4c85b5&quot;&gt;string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#D4E1F5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-53">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ERFbRIdKBf5skQwlBGlt-55" value="+ cluster: &lt;font color=&quot;#4c85b5&quot;&gt;byte&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-53">
+        <mxCell id="ERFbRIdKBf5skQwlBGlt-55" value="+ config: &lt;font color=&quot;#4c85b5&quot;&gt;ActorConfig&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-53">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ERFbRIdKBf5skQwlBGlt-56" value="+ dashboard: &lt;font color=&quot;#4c85b5&quot;&gt;string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-53">
