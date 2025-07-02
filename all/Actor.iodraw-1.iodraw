@@ -115,7 +115,7 @@
         <mxCell id="ERFbRIdKBf5skQwlBGlt-30" value="+ thread: &lt;font color=&quot;#4c85b5&quot;&gt;int&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="mJJFuk8N7hxxOyH7hGaa-5">
           <mxGeometry y="182" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ERFbRIdKBf5skQwlBGlt-29" value="+ master: &lt;font color=&quot;#4c85b5&quot;&gt;string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="mJJFuk8N7hxxOyH7hGaa-5">
+        <mxCell id="ERFbRIdKBf5skQwlBGlt-29" value="+ profile: &lt;font color=&quot;#4c85b5&quot;&gt;bool&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="mJJFuk8N7hxxOyH7hGaa-5">
           <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ERFbRIdKBf5skQwlBGlt-28" value="+ ssl: &lt;font color=&quot;#4c85b5&quot;&gt;bool&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#D4E1F5;" vertex="1" parent="mJJFuk8N7hxxOyH7hGaa-5">
