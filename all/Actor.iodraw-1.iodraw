@@ -156,7 +156,7 @@
         <mxCell id="ERFbRIdKBf5skQwlBGlt-103" value="+ handleIdx: &lt;font color=&quot;#4c85b5&quot;&gt;uint&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-101">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ERFbRIdKBf5skQwlBGlt-104" value="+ startTIme: &lt;font color=&quot;#4c85b5&quot;&gt;long&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-101">
+        <mxCell id="ERFbRIdKBf5skQwlBGlt-104" value="+ uintSlotSize: &lt;font color=&quot;#4c85b5&quot;&gt;uint&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-101">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ERFbRIdKBf5skQwlBGlt-105" value="+ stopper: &lt;font color=&quot;#4c85b5&quot;&gt;Stopper&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#D4E1F5;" vertex="1" parent="ERFbRIdKBf5skQwlBGlt-101">
