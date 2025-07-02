@@ -94,7 +94,7 @@
             <mxRectangle x="190" y="390" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mJJFuk8N7hxxOyH7hGaa-6" value="+ name: &lt;font color=&quot;#6666ff&quot;&gt;string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#D4E1F5;" parent="mJJFuk8N7hxxOyH7hGaa-5" vertex="1">
+        <mxCell id="mJJFuk8N7hxxOyH7hGaa-6" value="+ name: &lt;font color=&quot;#4c85b5&quot;&gt;string&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#D4E1F5;" parent="mJJFuk8N7hxxOyH7hGaa-5" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ERFbRIdKBf5skQwlBGlt-20" value="+ cluster: &lt;font color=&quot;#3333ff&quot;&gt;byte&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#d4e1f5;" vertex="1" parent="mJJFuk8N7hxxOyH7hGaa-5">
